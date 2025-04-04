@@ -1,7 +1,9 @@
 #!/bin/bash
 
 PORT=7777
+
 IP_CLIENT="localhost"
+
 WORKING_DIR="server"
 
 echo "LSTP Server (Lechuga Speaker Transfer Protocol)"
